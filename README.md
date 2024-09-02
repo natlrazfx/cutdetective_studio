@@ -24,7 +24,7 @@ Completion:
 Once the process is complete, a message will appear informing you of the number of shots created. You can review the cuts in your sequence to ensure they meet your requirements.
 
 **it's recommended to familiarize yourself with the PySceneDetect library. This library provides detailed documentation on how scene detection works and the various parameters available for configuration. Understanding this will help you get the most out of the Cut Detective Studio script and optimize it for your specific workflow.
-You can find more information and documentation for PySceneDetect here [PySceneDetect Documentatione](https://www.scenedetect.com/download/)**
+You can find more information and documentation for PySceneDetect here [PySceneDetect Documentation](https://www.scenedetect.com/download/)**
 
 [![Watch the video](https://img.youtube.com/vi/7zUSFjBkF64/maxresdefault.jpg)](https://youtu.be/7zUSFjBkF64)
 
