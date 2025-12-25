@@ -28,18 +28,10 @@ You can find more information and documentation for PySceneDetect here [PySceneD
 
 [![Watch the video](https://img.youtube.com/vi/7zUSFjBkF64/maxresdefault.jpg)](https://youtu.be/7zUSFjBkF64)
 
-## Support and Feedback
 
-If this script saved you some time or you just love what it does, please feel free to share your thoughts and consider supporting my work as I continue my journey
+## Don@tes
+**If any of this turns out to be useful for you - I’m glad.  
+And if you feel like supporting it:  
+☕ 1–2 coffees are more than enough ☺️**  
 
-### 💖 GitHub Sponsors
-[Become a Sponsor](https://github.com/sponsors/natlrazfx)
-### ☕ Buy Me a Coffee
-[Buy Me a Coffee](https://www.buymeacoffee.com/natlrazfx)
-### 💸 PayPal
-[PayPal Me](https://paypal.me/natlrazfx)
-### 👾 ByBit
-119114169
-
-
-## Cheers :) 
+[Click to Buy me a Coffee](buymeacoffee.com/natlrazfx)**
